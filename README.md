@@ -68,7 +68,7 @@ This project was developed as my Java programing project in ***Semester-1***.
 
 ##  Author
 
-**Dhyey Daftary**  
+***Dhyey Daftary***  
 LinkedIn: [https://www.linkedin.com/in/dhyey-daftary/](https://www.linkedin.com/in/dhyey-daftary/)
 
 ##  License
