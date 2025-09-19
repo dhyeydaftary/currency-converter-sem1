@@ -1,4 +1,4 @@
-#  Currency-Converter
+#  Currency Converter
 
 A backend-only Java application for converting currencies between multiple international currencies using real-time exchange rates stored in a 2D array. This project demonstrates core Java programming concepts in a practical, menu-driven console application.
 
