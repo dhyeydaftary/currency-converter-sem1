@@ -2,6 +2,10 @@
 
 A backend-only Java application for converting currencies between multiple international currencies using real-time exchange rates stored in a 2D array. This project demonstrates core Java programming concepts in a practical, menu-driven console application.
 
+##  Personal Note
+
+This project was developed as my Java programing project in ***Semester-1***.
+
 ##  Features
 
 - **Currency Listing**: Display a comprehensive list of supported currencies with their codes and full names.
@@ -65,10 +69,11 @@ A backend-only Java application for converting currencies between multiple inter
 ##  Author
 
 **Dhyey Daftary**  
-LinkedIn: [https://www.linkedin.com/in/dhyey-daftary/](https://www.linkedin.com/in/dhyey-daftary/) - Developed as part of a semester-1 Java programming project.
+LinkedIn: [https://www.linkedin.com/in/dhyey-daftary/](https://www.linkedin.com/in/dhyey-daftary/)
 
 ##  License
 
 This project is for **educational purposes** only and is not licensed for commercial use. Feel free to use it for learning and experimentation.
+
 
 For any questions, suggestions, or contributions, please contact the author through LinkedIn.
